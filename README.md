@@ -33,7 +33,7 @@ You should see something like this:
 ```DB_CONNECTION=mysql
 DB_HOST=xxxxxxxxxx.us-east-3.psdb.cloud
 DB_PORT=3306
-DB_DATABASE=laravel-mood-tracker
+DB_DATABASE=laravel-planetscale-app
 DB_USERNAME=xxxxxxxxxxx
 DB_PASSWORD=pscale_pw_xxxxxx-xx-xxxxxxxxxxxxxxxxxxxxxxxx
 MYSQL_ATTR_SSL_CA=/etc/ssl/cert.pem
